@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Video_UI.iml" filepath="$PROJECT_DIR$/.idea/modules/Video_UI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Video_UI.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Video_UI.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Video_UI.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Video_UI.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Video_UI.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Video_UI.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Video_UI.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Video_UI.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vclibs/Video_UI.vclibs.iml" filepath="$PROJECT_DIR$/.idea/modules/vclibs/Video_UI.vclibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vclibs/Video_UI.vclibs.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/vclibs/Video_UI.vclibs.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vclibs/Video_UI.vclibs.main.iml" filepath="$PROJECT_DIR$/.idea/modules/vclibs/Video_UI.vclibs.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vclibs/Video_UI.vclibs.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/vclibs/Video_UI.vclibs.unitTest.iml" />
+    </modules>
+  </component>
+</project>
